@@ -2,6 +2,14 @@
 
 ## Usage
 
+### Status
+
+```
+./cryptocom.sh --action status --passphrase 'YOUR_PASSPHRASE'
+```
+
+### Redelegation
+
 ```
 ./cryptocom.sh --action redelegate --passphrase 'YOUR_PASSPHRASE'
 ```
